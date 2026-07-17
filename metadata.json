@@ -1,0 +1,6 @@
+{
+  "name": "Smart-IR: Inspection Report",
+  "description": "Equipment inspection report and approval management system for Hanwha Aerospace PGM division, featuring grid-based entry, approval workflows, and PDF archiving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
